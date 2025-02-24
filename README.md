@@ -28,3 +28,5 @@ Once the connection is established, the program downloads the specified remote f
 Occurrence Counting
 
 The software not only displays the lines containing the searched string but also counts how many times it appears in the file. This count is shown to the user via a message box, providing immediate feedback on the operation.
+
+![ssh_1_1-1024x520](https://github.com/user-attachments/assets/9c87534d-eca9-4d88-86f6-41b247e23855)
